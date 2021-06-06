@@ -11,4 +11,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/House.unity
     guid: 46198acc96199e347bcec4a9a3f7367c
+  - enabled: 1
+    path: Assets/Scenes/Platformer/Level_2.unity
+    guid: 000ea7a9208dc784599473038f667e15
+  - enabled: 1
+    path: Assets/Scenes/Platformer/Level_1.unity
+    guid: 856ba5d17e50fef4abe1e48657352f6c
   m_configObjects: {}
